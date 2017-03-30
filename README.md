@@ -1,9 +1,10 @@
 # jsx-live-compiler
 
 Compile your JSX to Javascript live in your browser!
+
 ![jsx-live-compiler](images/screenshot.png)
 
-jsx-live-compiler is a react app that will compile your jsx live in your browser to the javascript equivalent.
+jsx-live-compiler is a react app that will compile your jsx live in your browser to the javascript equivalent on every key press. This is fun to watch and will help you to get a deeper understanding of react and will help you to fix your bugs.
 
 ## Commands
 
