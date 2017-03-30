@@ -51,7 +51,7 @@ class App extends Component {
         return (
           <div className="App">
             <div className="App-header">
-                <div className="HeaderLogo"><img src={logo} className="App-logo" alt="logo" /></div><div className="HeaderTitle">JSX Live Compiler Tool</div>
+                <div className="HeaderLogo"><img src={logo} className="App-logo" alt="logo" /></div><div className="HeaderTitle">JSX Live Compiler</div>
             </div>
            <div>
                <div className="container">
