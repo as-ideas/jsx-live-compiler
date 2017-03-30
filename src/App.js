@@ -17,7 +17,6 @@ class App extends Component {
     }
 
     update(e) {
-        console.log(e);
         let code = e;
         try {
             this.setState({
