@@ -1,4 +1,4 @@
-# jsx-live-compiler-tool
+# jsx-live-compiler
 
 # Structure
 
